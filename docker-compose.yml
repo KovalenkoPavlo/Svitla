@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+
+  watcher:
+    build: .
+    command: python3 db.py
+    command: python3 watcher.py
+    volumes:
+      - .:/code
+
+  robot:
+    build: .
+    command: python3 robot.py
+    depends_on:
+      - watcher
+    volumes:
+      - .:/code

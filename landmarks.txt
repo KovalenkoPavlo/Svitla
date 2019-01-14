@@ -1,0 +1,4 @@
+Main Square 10 10
+Big Ben 73 14
+Statue of Old Man with Large Hat 33 16
+Independence Square 190 160

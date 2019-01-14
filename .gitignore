@@ -1,0 +1,9 @@
+# Basics
+*.py[cod]
+__pycache__
+
+# Pycharm
+.idea/*
+
+# DB
+*.db

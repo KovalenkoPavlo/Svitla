@@ -1,0 +1,11 @@
+
+Start at (245, 160)
+
+● Go West 45 blocks
+go until you reach landmark "Independence Square"
+● Turn right
+● Turn right
+Move 10 blocks
+Turn right
+Go 60 blocks
+
